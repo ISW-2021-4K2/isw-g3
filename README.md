@@ -44,4 +44,4 @@
 | `<extension>`			| Nombre de la extensión del archivo definido como item. Ej: “.json, .py, .pptx, .pdf, .docx”.										 |
 
 ## Definición de Linea Base
-Se definirá un día después, a partir de las `23:59`, de los exámenes parciales en donde se incluirán todos los ítems que se encuentren en master. Esta se almacenará en la siguiente ruta https://github.com/ISW-2021-4K2/isw-g3/releases definida como `LineaBase<numero>-<fecha>`.
+Se definirá durante el día después del parcial, en donde se incluirán todos los ítems que se encuentren en master. Esta se almacenará en la siguiente ruta https://github.com/ISW-2021-4K2/isw-g3/releases definida como `LineaBase<numero>-<fecha>`.
