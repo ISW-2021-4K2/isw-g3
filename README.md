@@ -18,7 +18,7 @@
 |:---:|:---:|:---:|
 |Trabajos prácticos|`ISW-G3-TP<numero>-<nombre>.pdf`|`./isw-g3/practico`|
 |Trabajos conceptuales|`ISW-G3-TP<numero>-<nombre>.<extension>`|`./isw-g3/teorico/trabajos-conceptuales`  |
-|Presentaciones teóricas| `<año>-<numero>-<nombre>.pptx`|`./isw-g3/teorico/presentaciones`|
+|Presentaciones teóricas| `<año>-<numero>-<nombre>.pdf`|`./isw-g3/teorico/presentaciones`|
 |Libros| `ISW-Bibliografia-<nombre>.pdf`| `./isw-g3/general/bibliografia`|
 |Protocolo para rendir finales |<code><año>_UTN_FRC_ING_SW_Protocolo_para_rendir<p>_finales_en_forma_remota.pdf</code>|`./isw-g3/general/protocolos`|
 |Protocolo para rendir parciales|<code><año>_UTN_FRC_ING_SW_Protocolo_para_rendir<p>_parciales_en_forma_remota.pdf</code>|`./isw-g3/general/protocolos`|
